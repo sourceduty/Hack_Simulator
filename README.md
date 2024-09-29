@@ -9,6 +9,10 @@
 The GPT emphasizes ethical hacking, cybersecurity awareness, and responsible use. While it educates users on various hacking techniques, it also highlights the importance of safeguarding systems and preventing malicious activities. This environment is focused on learning and education, promoting a deep understanding of how to identify, exploit, and patch vulnerabilities, but it refrains from endorsing or encouraging illegal hacking practices.
 
 #
+
+![Hacker](https://github.com/user-attachments/assets/f5d37723-85fa-4eb1-b7f4-185a44943bf9)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
