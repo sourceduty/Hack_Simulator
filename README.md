@@ -1,6 +1,6 @@
 ![Hack Simulator](https://github.com/user-attachments/assets/33d84599-f87f-4aef-a741-f3a636c2a7df)
 
-> Simulate the experience of hacking various different software and systems.
+> Simulate the experience of hacking different software and systems.
 
 #
 
