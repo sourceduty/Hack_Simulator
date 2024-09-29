@@ -12,6 +12,10 @@ The GPT emphasizes ethical hacking, cybersecurity awareness, and responsible use
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Hack Automation](https://github.com/sourceduty/Hack_Automation)
+<br>
+[IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
